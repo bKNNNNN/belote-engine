@@ -1,0 +1,16 @@
+Documentation licence
+
+The files under docs/rules/ (belote-variants-bible.md and engine-design.md)
+are Copyright (c) 2026 LAST WORD EURL and are licensed under the Creative
+Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).
+
+You are free to share and adapt them for any purpose, even commercially, as
+long as you give appropriate credit, indicate if changes were made, and
+distribute your contributions under the same licence.
+
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+The source code of this repository is licensed separately under the MIT
+licence (see LICENSE at the repository root). Other files under docs/ that
+are not in docs/rules/ follow the MIT licence of the code.
